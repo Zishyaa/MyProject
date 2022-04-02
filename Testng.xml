@@ -1,0 +1,8 @@
+<suite name="OrangeHRM" parallel ="tests">
+	<test name="TestN" allow-return-values="true">
+		<classes>
+			<class name="testlayer.LoginPage" />
+		</classes>
+	</test>
+</suite>
+
